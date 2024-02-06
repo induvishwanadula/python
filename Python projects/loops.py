@@ -4,7 +4,7 @@ while i<=10:
     i+=1
 print("looping Done") 
 Secret_word="indu"
-Guess="indu"
+#Guess="indu"
 while Guess !=Secret_word:
     Guess=input("Enter a guess word")
 print("You won ")
